@@ -4,4 +4,4 @@ language: zh-Hans    //语言 中文
 theme: hexo-theme-new-vno   //刚刚安装的主题名称
 deploy:
    type: git    //使用Git 发布
-   repo: https://github.com/username/username.github.io.git    // 刚创建的Github仓库
+   repo: https://github.com/FToTo/FToTo.github.io.git    // 刚创建的Github仓库
